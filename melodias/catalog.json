@@ -1,17 +1,34 @@
-[
-  {
-
-    "nome": "Newbie - Menor natural",
-    "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_natural.zip"
-  },
-  {
-
-    "nome": "Newbie - Menor harmônica",
-    "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_harmonica.zip"
-  },
-  {
-
-    "nome": "Newbie - Menor melódica",
-    "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_melodica.zip"
-  }
-]
+{
+  "schemaVersion": 2,
+  "grupos": [
+    {
+      "id": 1,
+      "nome": "Newbie"
+    },
+    {
+      "id": 2,
+      "nome": "Arpejos de terças"
+    },
+    {
+      "id": 3,
+      "nome": "Saltos de oitava"
+    }
+  ],
+  "pacotes": [
+    {
+      "grupo": 1,
+      "tipo": "natural",
+      "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_natural.zip"
+    },
+    {
+      "grupo": 1,
+      "tipo": "melodica",
+      "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_melodica.zip"
+    },
+    {
+      "grupo": 1,
+      "tipo": "harmonica",
+      "url": "https://saxy0phone.clavesol.com.br/melodias/newbie_menor_harmonica.zip"
+    }
+  ]
+}
