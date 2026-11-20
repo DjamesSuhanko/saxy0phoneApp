@@ -16,6 +16,7 @@ def build():
         shutil.rmtree(OUT)
     shutil.copytree(ROOT / 'assets', OUT / 'assets')
     shutil.copytree(ROOT / 'melodias', OUT / 'melodias')
+    shutil.copytree(ROOT / 'concertos', OUT / 'concertos')
     shutil.copyfile(ROOT / 'CNAME', OUT / 'CNAME')
     (OUT / '.nojekyll').touch()
     app, author, email, description = (E(config[key], quote=True) for key in ('title', 'author', 'email', 'description'))
