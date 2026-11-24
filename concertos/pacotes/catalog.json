@@ -28,6 +28,22 @@
       "info": "Toque em Salão de festas para receber dinheiros!\n\nMelodias disponíveis nesse pacote:\n\n- Alecrim Dourado\n- Atirei o pau no gato\n- Boi da cara preta\n- Ciranda cirandinha\n- Escravos de Jo\n- Happy Birthday\n- Sambalele\n- Sapo Cururu\n\n",
       "sha256": "e2ff946d79f65320ee8f95257083aa622a3105d68e95bb0be532ccbf2a75190f",
       "sizeBytes": 2067141
+    },
+    {
+      "id": "teatro",
+      "type": "performance_venue",
+      "name": "Teatro",
+      "version": "1.0.0",
+      "access": "paid",
+      "billing": {
+        "productId": "teatro",
+        "purchaseOptionId": "compra-unica"
+      },
+      "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/teatro.zip",
+      "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/teatro.webp",
+      "info": "Toque peças no Teatro. Nesse pacote estão disponíveis:\n\n- Arabian\n- Pequeno Balé\n- Bardinerie\n- Disney Cm\n- Titanic\n\nNível do pacote: Newbie",
+      "sha256": "59efc052a001459c1f6538234d969902a937c2a91403f7abbce8616f7607ee57",
+      "sizeBytes": 2312211
     }
   ]
 }
