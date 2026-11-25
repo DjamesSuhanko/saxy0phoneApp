@@ -53,7 +53,7 @@
       "version": "1.0.1",
       "access": "paid",
       "billing": {
-        "productId": "private_performance",
+        "productId": "apresentacao_privada",
         "purchaseOptionId": "compra-unica"
       },
       "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/private_performance.zip",
