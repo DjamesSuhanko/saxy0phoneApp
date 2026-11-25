@@ -48,18 +48,19 @@
     {
       "id": "private_performance",
       "type": "performance_venue",
+      "environment": "underground",
       "name": "Apresentação Privada",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "access": "paid",
       "billing": {
-        "productId": "apresentacao_privada",
+        "productId": "private_performance",
         "purchaseOptionId": "compra-unica"
       },
       "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/private_performance.zip",
       "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/private_performance.webp",
       "info": "Toque peças na Apresentação Privada. Nesse pacote estão disponíveis:\n\n- A barata diz que tem\n- A Dona Aranha\n- A pulga e o percevejo — Torce, retorce\n- Havia uma barata na careca do vovô\n\nNível do pacote: Newbie",
-      "sha256": "a01e90f539dc8ad368e2b3027baf9c0aefcbc611e24d136d7bf318be98be6519",
-      "sizeBytes": 1538326
+      "sha256": "954516ce9bbc53fcda62ded99ca3438e151480a85b03f050cf86cd31e74d4235",
+      "sizeBytes": 1538327
     }
   ]
 }
