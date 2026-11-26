@@ -61,6 +61,23 @@
       "info": "Toque peças na Apresentação Privada. Nesse pacote estão disponíveis:\n\n- A barata diz que tem\n- A Dona Aranha\n- A pulga e o percevejo — Torce, retorce\n- Havia uma barata na careca do vovô\n\nNível do pacote: Newbie",
       "sha256": "954516ce9bbc53fcda62ded99ca3438e151480a85b03f050cf86cd31e74d4235",
       "sizeBytes": 1538327
+    },
+    {
+      "id": "taverna",
+      "type": "performance_venue",
+      "environment": "underground",
+      "name": "Taverna",
+      "version": "1.0.0",
+      "access": "paid",
+      "billing": {
+        "productId": "taverna",
+        "purchaseOptionId": "compra-unica"
+      },
+      "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/taverna.zip",
+      "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/taverna.webp",
+      "info": "Toque peças na Taverna. Nesse pacote estão disponíveis:\n\n- A Lenda do Herói sem Sombra\n- Canção do Bardo Errante\n- Canto dos Fiordes\n- Csárdás — 16 primeiros compassos\n- Festa na Taverna\n- Minueto do Jardim",
+      "sha256": "4f6a6e67888eb30817ef215d4a64b77b2e88941736fbcd3489904f3ea688119c",
+      "sizeBytes": 3021655
     }
   ]
 }
