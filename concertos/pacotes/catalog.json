@@ -78,6 +78,24 @@
       "info": "Toque peças na Taverna. Nesse pacote estão disponíveis:\n\n- A Lenda do Herói sem Sombra\n- Canção do Bardo Errante\n- Canto dos Fiordes\n- Csárdás — 16 primeiros compassos\n- Festa na Taverna\n- Minueto do Jardim",
       "sha256": "4f6a6e67888eb30817ef215d4a64b77b2e88941736fbcd3489904f3ea688119c",
       "sizeBytes": 3021655
+    },
+
+    {
+      "id": "contos_de_fada",
+      "type": "performance_venue",
+      "environment": "underground",
+      "name": "Contos de Fada",
+      "version": "1.0.0",
+      "access": "paid",
+      "billing": {
+      "productId": "contos_de_fada",
+      "purchaseOptionId": "compra-unica"
+      },
+     "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/contos_de_fada.zip",
+     "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/contos_de_fada.webp",
+     "info": "Toque peças na sala Contos de Fada. Nesse pacote estão disponíveis:\n\n- Boi da cara preta\n- Brilha, brilha, estrelinha\n- Canção de ninar (Brahms)\n- Ciranda, cirandinha\n- Nana neném\n- Se essa rua fosse minha\n- Terezinha de Jesus",
+     "sha256": "69182ae9925901b7b9bd8771b565bc30de670994a08678533bea2ddce8c426fc",
+     "sizeBytes": 3293269
     }
   ]
 }
