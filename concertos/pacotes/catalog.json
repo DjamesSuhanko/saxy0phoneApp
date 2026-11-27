@@ -113,6 +113,23 @@
      "info": "Toque peças na sala Forças Armadas. Nesse pacote estão disponíveis:\n\n- Alto\n- Alvorada – 1ª parte\n- À vontade\n- Bandeira Nacional\n- Cobrir ou perfilar\n- Descansar\n- Ordinário (marche)\n- Rancho\n- Sentido\n- Silêncio",
      "sha256": "f13f2ab950796d7ee652ccd2beca5b9b145975dab9ee7b77939bc12f68d6fff6",
      "sizeBytes": 2891051
+    },
+    {
+      "id": "salavideogame",
+      "type": "performance_venue",
+      "environment": "surface",
+      "name": "Sala de Videogame",
+      "version": "1.0.0",
+      "access": "paid",
+      "billing": {
+        "productId": "salavideogame",
+        "purchaseOptionId": "compra-unica"
+      },
+      "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/salavideogame.zip",
+      "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/salavideogame.webp",
+      "info": "Toque peças na Sala de Videogame. Nesse pacote estão disponíveis:\n\n- A Fortaleza Final\n- Bandeira da Vitória\n- Bosque dos Pixels\n- Castelo de Engrenagens\n- Corrida Neon\n- Dom que Congui\n- Duelo de Robôs\n- Ilha dos Tesouros\n- Órbita Perdida\n- Rô Mário\n- Salto entre Nuvens\n- Trêtis\n- Túnel de Cristal",
+      "sha256": "11868d5fdc1a794d2c85200d394c0fac4edccae320e7ad9fa407cea8afcc68bb",
+      "sizeBytes": 2971547
     }
   ]
 }
