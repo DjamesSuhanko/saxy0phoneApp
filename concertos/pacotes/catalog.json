@@ -148,7 +148,23 @@
       "info": "Toque peças no Sombrero Hall. Nesse pacote estão disponíveis:\n\n- Cielito Lindo — Refrão\n- Jarabe Tapatío\n- La Adelita\n- La Bamba\n- La Cucaracha\n- La Llorona\n- La Paloma\n- La Raspa\n- La Valentina\n- Sobre las Olas",
       "sha256": "5cc65ae5fb24644d2f2a919ac6f640d3063bc9b54d020a1b85e87541d2231b44",
       "sizeBytes": 2756783
-    }
-
+    },
+    {
+    "id": "apofis",
+    "type": "performance_venue",
+    "environment": "surface",
+    "name": "Apófis",
+    "version": "1.0.0",
+    "access": "paid",
+    "billing": {
+      "productId": "apofis",
+      "purchaseOptionId": "compra-unica"
+    },
+    "url": "https://saxy0phone.clavesol.com.br/concertos/pacotes/apofis.zip",
+    "imageUrl": "https://saxy0phone.clavesol.com.br/concertos/pacotes/apofis.webp",
+    "info": "Toque peças na sala de apresentações Apófis. Nesse pacote estão disponíveis:\n\n- A Maldição do Faraó\n- A Múmia Desastrada\n- Ao Luar do Nilo\n- Ballet égyptien — Allegretto\n- Corrida pelas Pirâmides\n- O Camelo Dançarino\n- O Escaravelho Fugitivo\n- O Mistério da Esfinge\n- O Tesouro de Tutancâmon\n- The Streets of Cairo",
+    "sha256": "98fb29eb37927f270c7273aebf9a2c6f3341b0fb1f768eef94ecf03efe1f6d1a",
+    "sizeBytes": 3126237
+   }
   ]
 }
